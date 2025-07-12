@@ -9,7 +9,7 @@ Six Sigma is a data-driven method to reduce defects and variability in processes
 ### Why It’s Useful
 - **Fewer Defects**
 - **Saves Money**
-- **Happy Customers*
+- **Happy Customers**
 - **Data-Powered**
 
 ## What This Tool Does
